@@ -16,3 +16,4 @@ namespace MvcMovie.Controllers
         }
     }
 }
+// GET: /hoang quoc dai 2021050165/ 
