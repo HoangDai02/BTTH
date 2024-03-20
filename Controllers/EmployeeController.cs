@@ -5,6 +5,7 @@ namespace DemoMVC.Controllers
 {
     public class EmployeeController : Controller
     {
+         // GET: /employee/
         public IActionResult Index()
         {
             return View();
