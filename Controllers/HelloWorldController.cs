@@ -17,3 +17,4 @@ namespace MvcMovie.Controllers
     }
 }
 // GET: /hoang quoc dai 202105016/ 
+// Nhiệm vụ của View: Cung cấp giao diện người dùng (HTML) bằng C#/
