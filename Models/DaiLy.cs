@@ -10,3 +10,4 @@ namespace DemoMVC.Models
         public string? MaHTPP { get; set;}
     }
 }
+ // get /
