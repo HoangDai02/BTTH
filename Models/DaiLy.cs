@@ -10,4 +10,4 @@ namespace DemoMVC.Models
         public string? MaHTPP { get; set;}
     }
 }
- // get /
+ // get phần mở rộng là “.cs”/
