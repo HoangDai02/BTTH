@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FirstWebMVC.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240410080942_Create_table_Person")]
+    [Migration("20240515073850_Create_table_Person")]
     partial class CreatetablePerson
     {
         /// <inheritdoc />

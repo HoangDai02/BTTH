@@ -274,7 +274,6 @@ E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.Sq
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
@@ -297,9 +296,15 @@ E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\PTPMQL\FirstWebMVC\obj\Debug\net7.0\FirstWeb.D601D611.Up2Date
+E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\EPPlus.dll
+E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\EPPlus.Interfaces.dll
+E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\PTPMQL\FirstWebMVC\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll

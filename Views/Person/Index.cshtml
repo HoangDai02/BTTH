@@ -1,6 +1,5 @@
-@model IEnumerable<MvcMovie.Models.Person>
-    @using X.PagedList;
-    @using X.PagedList.Mvc.Core;
+@model IEnumerable<FirstWebMVC.Models.Person>
+
 
 
     @{
@@ -10,6 +9,7 @@
     <h1>Index</h1>
     <p>
         <a asp-action="Create">Create New</a>
+        <a class="btn btn-succes" asp-action="Download">Download</a>
         <form asp-controller="Person" asp-action="Index">
             <p>
                 Search: <input type="Text" name ="SearchString" />
@@ -20,6 +20,10 @@
     <table class="table">
         <thead>
             <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.PersonId)
+
+                </th>
                 <th>
                     @Html.DisplayNameFor(model => model.FullName)
 
@@ -35,6 +39,10 @@
         <tbody>
             @foreach (var item in Model) {
                 <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PersonId)
+
+                    </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.FullName)
 
