@@ -154,7 +154,7 @@ ModelState.AddModelError("", "Please choose excel file to upload!");
                     return RedirectToAction(nameof(Index));
                 }
             }
-        }
+        }                         //   2*  //
         return View();
 
      }
@@ -195,7 +195,7 @@ ModelState.AddModelError("", "Please choose excel file to upload!");
     await _context.SaveChangesAsync();
     return RedirectToAction(nameof(Index));
 
-  }
+  }  
   private bool PersonExists(string id)
   {
     return (_context.Person?.Any(e => e.PersonId == id)).GetValueOrDefault();
